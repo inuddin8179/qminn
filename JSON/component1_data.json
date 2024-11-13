@@ -1,0 +1,23 @@
+{
+    "data1": [{
+            "url": "https://www.qmin.co.in/content/dam/qmin/Signature-dishes.png",
+            "title": "SIGNATURE DISHES & BEST SELLERS"
+
+        },
+        {
+            "url": "https://www.qmin.co.in/content/dam/qmin/contactless-delivery-transparent.png",
+            "title": "CONTACTLESS DELIVERY"
+
+        },
+        {
+            "url": "https://www.qmin.co.in/content/dam/qmin/Sustainable-packaging.png",
+            "title": "SUSTAINABLE PACKAGING"
+
+        },
+        {
+            "url": "https://www.qmin.co.in/content/dam/qmin/Hygiene-assured.png",
+            "title": "SAFETY & HYGIENE ASSURED"
+
+        }
+    ]
+}
